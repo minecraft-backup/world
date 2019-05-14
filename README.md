@@ -1,2 +1,2 @@
 # world
-Minecraft world for backup
+Backup Minecraft world
