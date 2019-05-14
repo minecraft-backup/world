@@ -1,4 +1,4 @@
 # world
 Backup Minecraft world
 
-Backup to **5:00** JST
+backup to **5:00** JST
