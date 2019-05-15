@@ -1,0 +1,138 @@
+[22:07:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:07:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:07:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:07:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:07:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:07:10] [Server thread/INFO]: Starting minecraft server version 1.14.1
+[22:07:10] [Server thread/INFO]: Loading properties
+[22:07:10] [Server thread/INFO]: Default game type: SURVIVAL
+[22:07:10] [Server thread/INFO]: Generating keypair
+[22:07:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:07:10] [Server thread/INFO]: Using epoll channel type
+[22:07:10] [Server thread/INFO]: Preparing level "world"
+[22:07:11] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:07:12] [Server thread/INFO]: Loaded 6 recipes
+[22:07:14] [Server thread/INFO]: Loaded 811 advancements
+[22:07:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:07:21] [User Authenticator #1/INFO]: UUID of player mi3_mine is 071cab1c-d8a5-45df-aad5-60622bbc42f2
+[22:07:32] [User Authenticator #2/INFO]: UUID of player mi3_mine is 071cab1c-d8a5-45df-aad5-60622bbc42f2
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:39] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:39] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:07:40] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:07:40] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:07:41] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:07:41] [Server-Worker-1/INFO]: Preparing spawn area: 7%
+[22:07:42] [Server-Worker-2/INFO]: Preparing spawn area: 18%
+[22:07:42] [Server-Worker-2/INFO]: Preparing spawn area: 55%
+[22:07:42] [Server thread/INFO]: Time elapsed: 27182 ms
+[22:07:42] [Server thread/INFO]: Done (32.030s)! For help, type "help"
+[22:07:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@53a1a1c9[id=071cab1c-d8a5-45df-aad5-60622bbc42f2,name=mi3_mine,properties={textures=[com.mojang.authlib.properties.Property@71291d9f]},legacy=false] (/25.44.145.49:62261) lost connection: Disconnected
+[22:07:43] [Server thread/INFO]: mi3_mine[/25.44.145.49:62263] logged in with entity id 366 at (-46.30000001192093, 49.0, -348.54612672793866)
+[22:07:43] [Server thread/INFO]: mi3_mine joined the game
+[22:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[22:07:52] [User Authenticator #3/INFO]: UUID of player Mkai37 is 54d1ad27-d6f6-4383-ac6c-283bee414f9d
+[22:07:52] [Server thread/INFO]: Mkai37[/25.76.110.16:50301] logged in with entity id 2064 at (-344.9038694286191, 73.0, -237.90145267048314)
+[22:07:52] [Server thread/INFO]: Mkai37 joined the game
+[22:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2801ms or 56 ticks behind
+[22:08:57] [Server thread/INFO]: The difficulty has been set to Hard
+[22:09:57] [User Authenticator #4/INFO]: UUID of player eiranya1 is 8d625758-14a2-4908-903d-f55b896e60e6
+[22:09:57] [Server thread/INFO]: eiranya1[/25.36.99.96:62720] logged in with entity id 8169 at (-410.8636848485283, 235.0, -264.23750001192093)
+[22:09:57] [Server thread/INFO]: eiranya1 joined the game
+[22:09:58] [Server thread/INFO]: Set the weather to rain & thunder
+[22:10:58] [User Authenticator #5/INFO]: UUID of player yukiee is df99d7e9-8c95-4424-9714-86df71b75c0c
+[22:10:59] [Server thread/INFO]: yukiee[/25.30.38.138:61348] logged in with entity id 11622 at (-576.3000000119209, 23.0, -533.0632231234943)
+[22:10:59] [Server thread/INFO]: yukiee joined the game
+[22:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22:12:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[22:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:17:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[22:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[22:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[22:23:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[22:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[22:24:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[22:25:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22:28:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
+[22:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:31:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:32:01] [Server thread/INFO]: yukiee lost connection: Timed out
+[22:32:01] [Server thread/INFO]: yukiee left the game
+[22:32:02] [Server thread/INFO]: mi3_mine lost connection: Timed out
+[22:32:02] [Server thread/INFO]: mi3_mine left the game
+[22:32:03] [Server thread/INFO]: Mkai37 drowned
+[22:32:08] [Server thread/WARN]: Mkai37 moved too quickly! 0.0,9.999707283751775,0.7216496244630548
+[22:32:14] [Server thread/INFO]: eiranya1 lost connection: Timed out
+[22:32:14] [Server thread/INFO]: eiranya1 left the game
+[22:32:14] [Server thread/WARN]: handleDisconnection() called twice
+[22:32:39] [User Authenticator #6/INFO]: UUID of player mi3_mine is 071cab1c-d8a5-45df-aad5-60622bbc42f2
+[22:32:39] [Server thread/INFO]: mi3_mine[/25.44.145.49:62651] logged in with entity id 125951 at (-48.51249998807907, 49.0, -350.3974733591629)
+[22:32:39] [Server thread/INFO]: mi3_mine joined the game
+[22:32:40] [User Authenticator #7/INFO]: UUID of player eiranya1 is 8d625758-14a2-4908-903d-f55b896e60e6
+[22:32:41] [Server thread/INFO]: eiranya1[/25.36.99.96:62816] logged in with entity id 128992 at (-411.08150941985554, 243.0, -266.2768014300057)
+[22:32:41] [Server thread/INFO]: eiranya1 joined the game
+[22:33:00] [Server thread/INFO]: Mkai37 lost connection: Disconnected
+[22:33:00] [Server thread/INFO]: Mkai37 left the game
+[22:33:06] [User Authenticator #8/INFO]: UUID of player Mkai37 is 54d1ad27-d6f6-4383-ac6c-283bee414f9d
+[22:33:06] [Server thread/INFO]: Mkai37[/25.76.110.16:50383] logged in with entity id 133013 at (-350.5, 73.0000002, -230.5)
+[22:33:06] [Server thread/INFO]: Mkai37 joined the game
+[22:33:15] [User Authenticator #9/INFO]: UUID of player yukiee is df99d7e9-8c95-4424-9714-86df71b75c0c
+[22:33:15] [Server thread/INFO]: yukiee[/25.30.38.138:61426] logged in with entity id 133213 at (-597.9755588297033, 20.0, -541.31513931297)
+[22:33:15] [Server thread/INFO]: yukiee joined the game
+[22:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[22:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5946ms or 118 ticks behind
+[22:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[22:35:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind

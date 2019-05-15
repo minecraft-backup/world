@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-05-15 20:52:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-05-05 16:55:20 +0900"
@@ -433,6 +439,7 @@
       "cooked_beef": "2019-05-11 15:29:14 +0900",
       "beef": "2019-05-06 22:10:43 +0900",
       "apple": "2019-05-06 21:36:38 +0900",
+      "cooked_cod": "2019-05-15 21:29:57 +0900",
       "bread": "2019-05-12 01:02:46 +0900",
       "rotten_flesh": "2019-05-05 16:48:48 +0900",
       "dried_kelp": "2019-05-12 00:56:47 +0900",
@@ -455,6 +462,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-05-06 21:37:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-05-15 21:26:02 +0900"
     },
     "done": true
   },
@@ -701,6 +714,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-11 16:09:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-05-15 21:21:17 +0900"
     },
     "done": true
   },
@@ -1117,6 +1136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2019-05-15 20:52:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2019-05-06 21:56:38 +0900"
@@ -1198,6 +1223,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-05-05 16:38:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-05-15 21:26:02 +0900"
     },
     "done": true
   },
@@ -1839,7 +1870,9 @@
       "minecraft:dark_forest": "2019-05-14 22:02:46 +0900",
       "minecraft:lukewarm_ocean": "2019-05-11 15:20:15 +0900",
       "minecraft:river": "2019-05-05 16:38:58 +0900",
+      "minecraft:birch_forest_hills": "2019-05-15 21:18:23 +0900",
       "minecraft:wooded_hills": "2019-05-14 22:13:03 +0900",
+      "minecraft:swamp": "2019-05-15 21:21:26 +0900",
       "minecraft:savanna": "2019-05-05 16:43:18 +0900",
       "minecraft:plains": "2019-05-05 15:30:07 +0900"
     },
@@ -2085,6 +2118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-05-15 21:26:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2019-05-05 16:48:01 +0900"
@@ -2190,6 +2229,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-05-06 21:37:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-05-15 20:52:23 +0900"
     },
     "done": true
   },

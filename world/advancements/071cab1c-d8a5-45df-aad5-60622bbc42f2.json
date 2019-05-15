@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2019-05-15 00:32:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2019-05-05 20:09:06 +0900"
@@ -426,7 +432,9 @@
       "rabbit": "2019-05-05 20:09:33 +0900",
       "bread": "2019-05-05 16:33:43 +0900",
       "rotten_flesh": "2019-05-05 20:11:19 +0900",
-      "beetroot": "2019-05-05 16:51:25 +0900"
+      "beetroot": "2019-05-05 16:51:25 +0900",
+      "cooked_chicken": "2019-05-14 23:40:53 +0900",
+      "cod": "2019-05-14 23:44:23 +0900"
     },
     "done": false
   },
@@ -1561,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2019-05-15 00:32:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-05-11 17:50:51 +0900"
@@ -1987,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2019-05-15 00:32:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-12 22:56:54 +0900"
@@ -2170,6 +2190,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-11 19:20:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2019-05-14 23:39:04 +0900"
     },
     "done": true
   },
