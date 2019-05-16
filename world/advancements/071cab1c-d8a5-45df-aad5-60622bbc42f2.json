@@ -1060,7 +1060,9 @@
       "minecraft:pillager": "2019-05-12 18:48:39 +0900",
       "minecraft:skeleton": "2019-05-11 17:49:46 +0900",
       "minecraft:vindicator": "2019-05-12 18:49:32 +0900",
+      "minecraft:magma_cube": "2019-05-16 21:39:38 +0900",
       "minecraft:spider": "2019-05-12 15:04:25 +0900",
+      "minecraft:slime": "2019-05-16 21:23:26 +0900",
       "minecraft:phantom": "2019-05-15 23:19:51 +0900",
       "minecraft:witch": "2019-05-12 15:03:23 +0900",
       "minecraft:husk": "2019-05-05 16:29:52 +0900",
@@ -1459,6 +1461,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-05-12 02:28:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-05-16 21:10:40 +0900"
     },
     "done": true
   },
@@ -2005,6 +2013,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-05-07 22:37:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-05-16 00:02:41 +0900"
     },
     "done": true
   },

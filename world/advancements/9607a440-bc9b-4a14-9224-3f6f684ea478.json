@@ -280,6 +280,7 @@
       "cooked_porkchop": "2019-05-13 21:53:27 +0900",
       "cooked_beef": "2019-05-13 22:12:28 +0900",
       "porkchop": "2019-05-13 21:31:03 +0900",
+      "cooked_cod": "2019-05-16 00:10:12 +0900",
       "rotten_flesh": "2019-05-13 23:31:56 +0900",
       "melon_slice": "2019-05-13 21:38:43 +0900"
     },
@@ -312,6 +313,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-05-13 21:40:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2019-05-16 00:10:08 +0900"
     },
     "done": true
   },
@@ -396,6 +403,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2019-05-13 22:44:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2019-05-15 23:25:46 +0900"
     },
     "done": true
   },
@@ -858,6 +871,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-05-13 21:31:08 +0900",
       "minecraft:creeper": "2019-05-13 22:01:42 +0900",
+      "minecraft:phantom": "2019-05-16 00:02:39 +0900",
       "minecraft:zombie": "2019-05-13 23:47:37 +0900"
     },
     "done": false

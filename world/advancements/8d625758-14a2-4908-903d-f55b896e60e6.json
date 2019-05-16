@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2019-05-15 23:45:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2019-05-12 03:31:10 +0900"
@@ -351,6 +357,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2019-05-12 00:49:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2019-05-15 23:45:12 +0900"
     },
     "done": true
   },
@@ -674,6 +686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-05-15 23:45:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-12 01:14:16 +0900"
@@ -740,9 +758,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2019-05-16 23:47:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-05-12 00:49:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2019-05-15 23:45:12 +0900"
     },
     "done": true
   },
@@ -851,6 +881,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2019-05-12 01:08:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-05-16 23:53:39 +0900"
     },
     "done": true
   },
@@ -1044,6 +1080,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-05-12 03:00:32 +0900",
       "minecraft:creeper": "2019-05-12 22:00:02 +0900",
+      "minecraft:phantom": "2019-05-16 00:01:05 +0900",
       "minecraft:enderman": "2019-05-12 01:14:14 +0900",
       "minecraft:zombie": "2019-05-12 03:01:31 +0900",
       "minecraft:drowned": "2019-05-12 01:24:02 +0900"
@@ -1590,6 +1627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-05-16 23:48:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-05-13 21:54:55 +0900"
@@ -1818,6 +1861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-05-16 23:48:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-06 22:02:27 +0900"
@@ -1827,6 +1876,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2019-05-06 22:04:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2019-05-15 23:45:12 +0900"
     },
     "done": true
   },
@@ -1986,6 +2041,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-05-06 21:56:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-05-15 23:45:12 +0900"
     },
     "done": true
   },

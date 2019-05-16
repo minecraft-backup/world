@@ -735,6 +735,15 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2019-05-16 21:54:41 +0900",
+      "iron_chestplate": "2019-05-16 21:54:41 +0900",
+      "iron_leggings": "2019-05-16 21:54:41 +0900",
+      "iron_helmet": "2019-05-16 21:54:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-05-11 16:35:48 +0900"
