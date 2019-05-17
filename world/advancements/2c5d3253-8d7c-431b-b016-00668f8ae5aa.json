@@ -477,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-05-18 01:56:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-05-06 21:37:52 +0900"
@@ -1053,6 +1059,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-05-11 15:57:27 +0900",
+      "minecraft:zombie_pigman": "2019-05-18 02:01:30 +0900",
       "minecraft:ghast": "2019-05-12 11:06:33 +0900",
       "minecraft:spider": "2019-05-11 15:58:05 +0900",
       "minecraft:creeper": "2019-05-12 11:12:06 +0900",
@@ -1838,6 +1845,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2019-05-12 02:21:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-05-18 01:57:16 +0900"
     },
     "done": true
   },

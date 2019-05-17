@@ -1079,6 +1079,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-05-12 03:00:32 +0900",
+      "minecraft:zombie_pigman": "2019-05-18 02:01:39 +0900",
+      "minecraft:spider": "2019-05-18 00:44:42 +0900",
       "minecraft:creeper": "2019-05-12 22:00:02 +0900",
       "minecraft:phantom": "2019-05-16 00:01:05 +0900",
       "minecraft:enderman": "2019-05-12 01:14:14 +0900",
