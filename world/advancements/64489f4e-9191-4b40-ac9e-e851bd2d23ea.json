@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2019-05-18 22:00:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-12 03:27:12 +0900"
@@ -592,6 +598,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2019-05-16 22:34:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-05-18 19:45:21 +0900"
     },
     "done": true
   },
@@ -1015,6 +1027,7 @@
     "criteria": {
       "minecraft:pillager": "2019-05-12 02:38:24 +0900",
       "minecraft:skeleton": "2019-05-12 01:32:41 +0900",
+      "minecraft:vindicator": "2019-05-18 22:13:59 +0900",
       "minecraft:spider": "2019-05-12 14:40:11 +0900",
       "minecraft:creeper": "2019-05-12 14:18:08 +0900",
       "minecraft:slime": "2019-05-12 03:10:06 +0900",
@@ -1196,6 +1209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-05-18 19:45:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2019-05-12 16:53:18 +0900"
@@ -1331,6 +1350,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-05-12 17:03:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-05-18 19:45:21 +0900"
     },
     "done": true
   },
@@ -1839,6 +1864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2019-05-18 19:45:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2019-05-14 22:59:34 +0900"
@@ -1854,6 +1885,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2019-05-12 03:10:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2019-05-18 19:45:21 +0900"
     },
     "done": true
   },
@@ -1986,6 +2023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-05-18 19:45:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-05-11 15:53:29 +0900"
@@ -2037,6 +2080,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-05-12 01:26:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-05-18 21:49:49 +0900"
     },
     "done": true
   },
@@ -2181,6 +2230,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2019-05-11 16:04:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-05-18 21:49:49 +0900"
     },
     "done": true
   },
