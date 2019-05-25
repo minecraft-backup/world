@@ -673,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2019-05-25 23:22:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2019-05-12 03:24:42 +0900"
@@ -754,6 +760,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2019-05-15 00:08:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2019-05-25 23:39:37 +0900"
     },
     "done": true
   },
@@ -2478,6 +2490,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-18 11:13:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-05-25 23:39:37 +0900"
     },
     "done": true
   },

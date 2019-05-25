@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-05-26 03:49:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2019-05-15 23:45:25 +0900"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-05-26 02:59:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-05-12 02:01:20 +0900"
@@ -338,6 +350,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-05-12 02:34:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-05-26 02:59:24 +0900"
     },
     "done": true
   },
@@ -796,9 +814,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-05-26 03:03:37 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2019-05-13 23:34:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2019-05-26 03:16:44 +0900"
     },
     "done": true
   },
@@ -829,6 +859,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-05-23 21:36:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-05-26 03:02:00 +0900"
     },
     "done": true
   },
@@ -877,6 +913,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-05-12 13:28:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-05-26 03:57:08 +0900"
     },
     "done": true
   },
@@ -931,6 +973,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-12 14:24:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-05-26 03:57:08 +0900"
     },
     "done": true
   },
@@ -1167,6 +1215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-05-26 03:57:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2019-05-12 01:37:11 +0900"
@@ -1368,6 +1422,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-05-12 01:35:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2019-05-26 03:16:44 +0900"
     },
     "done": true
   },
@@ -1663,11 +1723,14 @@
     "criteria": {
       "chicken": "2019-05-12 02:34:25 +0900",
       "chorus_fruit": "2019-05-25 18:04:35 +0900",
+      "baked_potato": "2019-05-26 01:06:12 +0900",
       "apple": "2019-05-12 02:31:52 +0900",
+      "spider_eye": "2019-05-26 03:22:48 +0900",
       "cooked_cod": "2019-05-15 22:19:10 +0900",
       "bread": "2019-05-15 22:47:47 +0900",
       "rotten_flesh": "2019-05-12 01:39:42 +0900",
       "dried_kelp": "2019-05-12 01:56:36 +0900",
+      "salmon": "2019-05-26 03:07:13 +0900",
       "melon_slice": "2019-05-12 03:30:19 +0900",
       "cooked_chicken": "2019-05-15 23:43:17 +0900",
       "cod": "2019-05-15 23:43:46 +0900",
@@ -1857,6 +1920,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2019-05-26 03:16:44 +0900",
       "minecraft:cow": "2019-05-12 02:44:29 +0900",
       "minecraft:chicken": "2019-05-12 02:10:05 +0900"
     },
@@ -2009,6 +2073,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2019-05-12 02:31:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-05-26 03:02:00 +0900"
     },
     "done": true
   },
@@ -2474,6 +2544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-05-26 03:02:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-05-12 01:54:03 +0900"
@@ -2737,6 +2813,14 @@
       "has_stone": "2019-05-13 21:33:30 +0900"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/tabby.png": "2019-05-26 03:41:03 +0900",
+      "textures/entity/cat/jellie.png": "2019-05-26 03:03:37 +0900",
+      "textures/entity/cat/british_shorthair.png": "2019-05-26 03:14:24 +0900"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
