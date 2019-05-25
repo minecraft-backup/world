@@ -507,6 +507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-05-23 23:01:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-12 03:05:50 +0900"
@@ -875,10 +881,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2019-05-23 22:18:11 +0900",
       "minecraft:spider": "2019-05-16 22:58:32 +0900",
       "minecraft:slime": "2019-05-14 21:38:17 +0900",
       "minecraft:husk": "2019-05-14 23:02:05 +0900",
-      "minecraft:zombie": "2019-05-16 22:40:45 +0900"
+      "minecraft:zombie": "2019-05-16 22:40:45 +0900",
+      "minecraft:drowned": "2019-05-23 22:59:35 +0900"
     },
     "done": false
   },
@@ -1216,6 +1224,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-05-12 21:59:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-05-23 22:31:48 +0900"
     },
     "done": true
   },
