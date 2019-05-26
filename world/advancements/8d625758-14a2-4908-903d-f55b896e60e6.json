@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-05-26 16:06:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2019-05-18 21:20:32 +0900"
@@ -1793,6 +1799,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2019-05-25 18:59:05 +0900",
+      "cooked_beef": "2019-05-26 16:08:19 +0900",
       "spider_eye": "2019-05-19 20:38:02 +0900",
       "mutton": "2019-05-12 00:51:32 +0900",
       "bread": "2019-05-12 01:13:19 +0900",

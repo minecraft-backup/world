@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2019-05-26 17:35:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2019-05-25 18:42:09 +0900"
@@ -564,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_blue_dye": "2019-05-26 17:35:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2019-05-18 00:54:55 +0900"
@@ -623,6 +635,7 @@
       "minecraft:pillager": "2019-05-19 13:56:53 +0900",
       "minecraft:skeleton": "2019-05-13 21:31:51 +0900",
       "minecraft:zombie_pigman": "2019-05-23 22:58:54 +0900",
+      "minecraft:ravager": "2019-05-26 16:12:06 +0900",
       "minecraft:vindicator": "2019-05-18 16:50:42 +0900",
       "minecraft:spider": "2019-05-13 23:03:18 +0900",
       "minecraft:creeper": "2019-05-13 23:05:06 +0900",
@@ -745,6 +758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_the_recipe": "2019-05-26 17:34:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2019-05-12 20:48:21 +0900"
@@ -814,6 +833,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2019-05-19 13:19:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2019-05-26 17:35:02 +0900"
     },
     "done": true
   },
@@ -1147,6 +1172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2019-05-26 17:35:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-05-11 20:24:18 +0900",
@@ -1306,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2019-05-26 17:35:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-05-12 20:48:23 +0900"
@@ -1372,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2019-05-26 17:35:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-12 01:47:01 +0900"
@@ -1423,6 +1466,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2019-05-25 03:50:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2019-05-26 17:35:02 +0900"
     },
     "done": true
   },
@@ -1858,6 +1907,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2019-05-15 21:38:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2019-05-26 17:35:02 +0900"
     },
     "done": true
   },
@@ -2553,6 +2608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2019-05-26 17:35:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2019-05-12 22:29:45 +0900"
@@ -2649,6 +2710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-05-26 19:37:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2019-05-12 01:57:24 +0900"
@@ -2682,6 +2749,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2019-05-21 22:52:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2019-05-26 16:11:35 +0900"
     },
     "done": true
   },
@@ -2856,6 +2929,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-18 11:13:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2019-05-26 16:11:35 +0900"
     },
     "done": true
   },
