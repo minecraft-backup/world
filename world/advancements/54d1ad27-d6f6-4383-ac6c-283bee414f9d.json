@@ -541,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-05-27 22:02:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-12 01:37:44 +0900"
@@ -1003,6 +1009,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2019-05-12 13:56:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-05-27 22:02:01 +0900"
     },
     "done": true
   },
@@ -1728,6 +1740,7 @@
       "apple": "2019-05-12 02:31:52 +0900",
       "spider_eye": "2019-05-26 03:22:48 +0900",
       "cooked_cod": "2019-05-15 22:19:10 +0900",
+      "mutton": "2019-05-27 22:02:50 +0900",
       "bread": "2019-05-15 22:47:47 +0900",
       "rotten_flesh": "2019-05-12 01:39:42 +0900",
       "dried_kelp": "2019-05-12 01:56:36 +0900",
@@ -2434,6 +2447,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-05-13 21:33:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-05-27 22:02:01 +0900"
     },
     "done": true
   },
