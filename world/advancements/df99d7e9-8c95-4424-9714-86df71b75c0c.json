@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-05-28 23:34:07 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2019-05-14 22:39:39 +0900"
@@ -1186,17 +1192,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-05-11 20:24:18 +0900",
-      "minecraft:badlands_plateau": "2019-05-19 22:59:02 +0900",
       "minecraft:mountains": "2019-05-22 20:48:04 +0900",
+      "minecraft:badlands_plateau": "2019-05-19 22:59:02 +0900",
+      "minecraft:forest": "2019-05-11 20:24:18 +0900",
       "minecraft:desert_hills": "2019-05-12 21:38:34 +0900",
       "minecraft:desert": "2019-05-12 00:58:10 +0900",
       "minecraft:deep_lukewarm_ocean": "2019-05-21 23:50:35 +0900",
       "minecraft:badlands": "2019-05-19 22:57:35 +0900",
       "minecraft:savanna_plateau": "2019-05-19 20:08:02 +0900",
       "minecraft:beach": "2019-05-11 20:24:35 +0900",
-      "minecraft:lukewarm_ocean": "2019-05-12 00:48:16 +0900",
       "minecraft:river": "2019-05-11 20:24:27 +0900",
+      "minecraft:lukewarm_ocean": "2019-05-12 00:48:16 +0900",
       "minecraft:wooded_mountains": "2019-05-21 23:14:53 +0900",
       "minecraft:wooded_hills": "2019-05-12 01:27:03 +0900",
       "minecraft:wooded_badlands_plateau": "2019-05-19 22:59:39 +0900",
@@ -2998,5 +3004,5 @@
     },
     "done": true
   },
-  "DataVersion": 1957
+  "DataVersion": 1963
 }

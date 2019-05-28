@@ -162,6 +162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-05-28 23:08:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-05-05 16:48:01 +0900"
@@ -980,8 +986,8 @@
       "minecraft:savanna_plateau": "2019-05-14 21:53:14 +0900",
       "minecraft:beach": "2019-05-05 16:44:58 +0900",
       "minecraft:dark_forest": "2019-05-14 22:02:46 +0900",
-      "minecraft:lukewarm_ocean": "2019-05-11 15:20:15 +0900",
       "minecraft:river": "2019-05-05 16:38:58 +0900",
+      "minecraft:lukewarm_ocean": "2019-05-11 15:20:15 +0900",
       "minecraft:birch_forest_hills": "2019-05-15 21:18:23 +0900",
       "minecraft:wooded_hills": "2019-05-14 22:13:03 +0900",
       "minecraft:swamp": "2019-05-15 21:21:26 +0900",
@@ -2399,5 +2405,5 @@
     },
     "done": true
   },
-  "DataVersion": 1957
+  "DataVersion": 1963
 }
