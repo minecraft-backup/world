@@ -301,6 +301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-05-26 23:29:04 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-05-12 00:53:53 +0900"
@@ -1799,7 +1805,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2019-05-25 18:59:05 +0900",
+<<<<<<< HEAD
       "cooked_beef": "2019-05-26 16:08:19 +0900",
+=======
+      "cooked_beef": "2019-05-26 23:19:01 +0900",
+>>>>>>> 4e0dab1e668d68fe87ffab0a50c145133dcb9d02
       "spider_eye": "2019-05-19 20:38:02 +0900",
       "mutton": "2019-05-12 00:51:32 +0900",
       "bread": "2019-05-12 01:13:19 +0900",
@@ -2178,6 +2188,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2019-05-12 00:53:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-05-26 23:29:04 +0900"
     },
     "done": true
   },
