@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2019-06-01 21:53:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2019-05-21 22:52:26 +0900"
@@ -1192,20 +1198,36 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-06-01 22:47:18 +0900",
+      "minecraft:snowy_mountains": "2019-06-01 23:33:20 +0900",
       "minecraft:mountains": "2019-05-22 20:48:04 +0900",
       "minecraft:badlands_plateau": "2019-05-19 22:59:02 +0900",
       "minecraft:forest": "2019-05-11 20:24:18 +0900",
       "minecraft:desert_hills": "2019-05-12 21:38:34 +0900",
+      "minecraft:giant_tree_taiga": "2019-06-01 23:03:13 +0900",
+      "minecraft:deep_cold_ocean": "2019-06-01 22:48:59 +0900",
+      "minecraft:snowy_tundra": "2019-06-01 23:33:16 +0900",
+      "minecraft:taiga_hills": "2019-06-01 23:03:14 +0900",
       "minecraft:desert": "2019-05-12 00:58:10 +0900",
+      "minecraft:frozen_river": "2019-06-01 23:33:38 +0900",
+      "minecraft:deep_frozen_ocean": "2019-06-01 22:48:16 +0900",
+      "minecraft:birch_forest": "2019-06-01 22:43:31 +0900",
+      "minecraft:warm_ocean": "2019-06-01 23:14:54 +0900",
       "minecraft:deep_lukewarm_ocean": "2019-05-21 23:50:35 +0900",
       "minecraft:badlands": "2019-05-19 22:57:35 +0900",
       "minecraft:savanna_plateau": "2019-05-19 20:08:02 +0900",
       "minecraft:beach": "2019-05-11 20:24:35 +0900",
+      "minecraft:dark_forest": "2019-06-01 22:43:02 +0900",
       "minecraft:river": "2019-05-11 20:24:27 +0900",
       "minecraft:lukewarm_ocean": "2019-05-12 00:48:16 +0900",
+      "minecraft:snowy_taiga": "2019-06-01 23:34:37 +0900",
+      "minecraft:birch_forest_hills": "2019-06-01 22:44:52 +0900",
       "minecraft:wooded_mountains": "2019-05-21 23:14:53 +0900",
       "minecraft:wooded_hills": "2019-05-12 01:27:03 +0900",
+      "minecraft:stone_shore": "2019-06-01 23:00:38 +0900",
+      "minecraft:giant_tree_taiga_hills": "2019-06-01 23:04:07 +0900",
       "minecraft:wooded_badlands_plateau": "2019-05-19 22:59:39 +0900",
+      "minecraft:swamp": "2019-06-01 22:44:34 +0900",
       "minecraft:savanna": "2019-05-19 20:07:33 +0900",
       "minecraft:plains": "2019-05-06 22:02:28 +0900"
     },
@@ -1379,6 +1401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2019-06-01 19:08:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-05-12 22:29:45 +0900"
@@ -1460,6 +1488,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-19 22:59:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2019-06-01 21:53:32 +0900"
     },
     "done": true
   },
@@ -1694,6 +1728,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2019-05-18 20:29:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_at_least_9_ice": "2019-06-01 23:38:48 +0900"
     },
     "done": true
   },
@@ -2470,6 +2510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2019-06-01 19:08:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-05-25 03:49:38 +0900"
@@ -2953,6 +2999,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-18 11:13:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2019-06-01 21:53:32 +0900"
     },
     "done": true
   },
