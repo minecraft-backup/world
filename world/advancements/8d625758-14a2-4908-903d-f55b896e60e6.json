@@ -711,15 +711,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2019-05-30 22:30:36 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-05-30 21:27:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-05-30 22:30:36 +0900"
     },
     "done": true
   },
