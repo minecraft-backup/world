@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2019-06-03 20:30:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-05-29 00:07:56 +0900"
@@ -635,15 +641,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
-    "criteria": {
-      "has_prismarine_bricks": "2019-06-02 15:24:58 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2019-06-02 15:24:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-06-02 15:24:58 +0900"
     },
     "done": true
   },
@@ -1004,8 +1010,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2019-06-03 20:27:10 +0900",
       "minecraft:skeleton": "2019-05-28 21:13:08 +0900",
+      "minecraft:ravager": "2019-06-03 20:30:02 +0900",
       "minecraft:guardian": "2019-06-02 15:09:39 +0900",
+      "minecraft:vindicator": "2019-06-03 20:27:02 +0900",
       "minecraft:creeper": "2019-05-28 22:03:14 +0900",
       "minecraft:phantom": "2019-06-02 15:45:21 +0900",
       "minecraft:enderman": "2019-06-02 15:05:31 +0900",
@@ -1145,6 +1154,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-05-28 20:48:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2019-06-03 20:27:12 +0900"
     },
     "done": true
   },
