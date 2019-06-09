@@ -568,6 +568,7 @@
       "minecraft:zombie_pigman": "2019-05-18 02:01:30 +0900",
       "minecraft:ghast": "2019-05-12 11:06:33 +0900",
       "minecraft:guardian": "2019-06-02 15:14:25 +0900",
+      "minecraft:magma_cube": "2019-06-09 14:40:39 +0900",
       "minecraft:spider": "2019-05-11 15:58:05 +0900",
       "minecraft:creeper": "2019-05-12 11:12:06 +0900",
       "minecraft:slime": "2019-05-25 15:08:46 +0900",
@@ -1569,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2019-06-09 14:34:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-05-12 02:21:05 +0900"
@@ -1931,6 +1938,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-11 16:09:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2019-06-09 14:34:48 +0900"
     },
     "done": true
   },
