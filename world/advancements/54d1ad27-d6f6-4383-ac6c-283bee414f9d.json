@@ -413,6 +413,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2019-06-02 00:44:04 +0900",
+      "cooked_beef": "2019-06-10 20:46:24 +0900",
       "bread": "2019-05-28 20:54:01 +0900",
       "rotten_flesh": "2019-05-30 22:19:33 +0900",
       "cooked_chicken": "2019-06-02 14:59:12 +0900"
@@ -1015,6 +1016,7 @@
       "minecraft:ravager": "2019-06-03 20:30:02 +0900",
       "minecraft:guardian": "2019-06-02 15:09:39 +0900",
       "minecraft:vindicator": "2019-06-03 20:27:02 +0900",
+      "minecraft:spider": "2019-06-10 20:49:10 +0900",
       "minecraft:creeper": "2019-05-28 22:03:14 +0900",
       "minecraft:phantom": "2019-06-02 15:45:21 +0900",
       "minecraft:enderman": "2019-06-02 15:05:31 +0900",
