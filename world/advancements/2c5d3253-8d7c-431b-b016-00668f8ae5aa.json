@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2019-06-16 19:35:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_the_recipe": "2019-05-05 16:54:35 +0900"
@@ -906,6 +912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-06-16 19:39:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2019-05-14 22:16:06 +0900"
@@ -1375,6 +1387,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-05-11 20:12:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2019-06-16 19:35:05 +0900"
     },
     "done": true
   },
@@ -2037,6 +2055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2019-06-16 19:35:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-05-12 02:21:09 +0900"
@@ -2556,6 +2580,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2019-06-01 23:11:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2019-06-16 19:35:05 +0900"
     },
     "done": true
   },

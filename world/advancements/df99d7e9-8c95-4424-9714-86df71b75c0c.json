@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2019-06-16 19:47:22 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-05-12 01:46:03 +0900"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2019-06-16 19:31:37 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_the_recipe": "2019-05-19 20:43:07 +0900"
@@ -422,6 +434,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-05-24 23:54:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-06-16 19:29:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2019-06-16 19:31:37 +0900"
     },
     "done": true
   },
@@ -594,6 +618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2019-06-16 19:31:37 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2019-05-18 00:54:55 +0900"
@@ -756,6 +786,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2019-05-25 03:50:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2019-06-16 19:31:37 +0900"
     },
     "done": true
   },
@@ -1017,6 +1053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-06-16 19:55:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-05-15 21:38:21 +0900"
@@ -1056,6 +1098,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2019-05-15 21:38:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2019-06-16 19:29:57 +0900"
     },
     "done": true
   },
@@ -1122,6 +1170,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-05-12 02:55:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2019-06-16 19:29:57 +0900"
     },
     "done": true
   },
@@ -1588,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2019-06-16 19:47:22 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-05-12 02:42:55 +0900"
@@ -1621,6 +1681,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2019-05-16 22:53:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2019-06-16 21:07:40 +0900"
     },
     "done": true
   },
@@ -1945,6 +2011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-06-16 19:29:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2019-05-12 02:13:23 +0900"
@@ -2070,6 +2142,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-05-12 20:49:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2019-06-16 19:31:37 +0900"
     },
     "done": true
   },
@@ -2340,6 +2418,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2019-06-02 10:57:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2019-06-16 19:47:22 +0900"
     },
     "done": true
   },
@@ -2667,6 +2751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2019-06-16 19:31:37 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-19 22:59:57 +0900"
@@ -2952,6 +3042,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2019-05-25 20:07:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2019-06-16 19:47:22 +0900"
     },
     "done": true
   },
