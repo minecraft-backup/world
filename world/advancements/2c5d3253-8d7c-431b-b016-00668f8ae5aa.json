@@ -2415,6 +2415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2019-06-19 20:10:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-05-11 15:23:58 +0900"
@@ -2658,6 +2664,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_gray_dye": "2019-05-12 02:21:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2019-06-19 20:10:13 +0900"
     },
     "done": true
   },

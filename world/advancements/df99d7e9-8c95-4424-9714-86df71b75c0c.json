@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-06-19 19:54:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-05-11 20:25:11 +0900"
@@ -686,11 +692,13 @@
       "minecraft:ravager": "2019-05-26 16:12:06 +0900",
       "minecraft:ghast": "2019-06-02 14:04:59 +0900",
       "minecraft:vindicator": "2019-05-18 16:50:42 +0900",
+      "minecraft:magma_cube": "2019-06-19 19:41:19 +0900",
       "minecraft:spider": "2019-05-13 23:03:18 +0900",
       "minecraft:creeper": "2019-05-13 23:05:06 +0900",
       "minecraft:slime": "2019-05-12 23:28:21 +0900",
       "minecraft:phantom": "2019-05-23 23:22:09 +0900",
       "minecraft:witch": "2019-05-15 20:40:29 +0900",
+      "minecraft:wither_skeleton": "2019-06-19 19:38:14 +0900",
       "minecraft:husk": "2019-05-12 22:04:31 +0900",
       "minecraft:shulker": "2019-05-25 18:39:08 +0900",
       "minecraft:enderman": "2019-05-19 21:55:18 +0900",
@@ -816,6 +824,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_the_recipe": "2019-05-26 17:34:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-06-19 19:54:59 +0900"
     },
     "done": true
   },
@@ -966,6 +980,12 @@
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2019-05-22 21:24:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-06-19 19:54:59 +0900"
     },
     "done": true
   },
@@ -1188,6 +1208,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-05-12 03:15:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-06-19 19:54:59 +0900"
     },
     "done": true
   },
@@ -1774,6 +1800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2019-06-19 19:54:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-12 01:47:01 +0900"
@@ -1894,6 +1926,7 @@
       "cooked_beef": "2019-05-25 10:54:48 +0900",
       "apple": "2019-05-12 03:18:57 +0900",
       "potato": "2019-05-22 21:30:37 +0900",
+      "cooked_cod": "2019-06-19 20:39:25 +0900",
       "bread": "2019-05-12 02:14:09 +0900",
       "rotten_flesh": "2019-05-12 02:13:51 +0900",
       "melon_slice": "2019-05-12 21:52:34 +0900",
@@ -2967,6 +3000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-06-19 19:54:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-05-18 01:38:45 +0900"
@@ -3066,6 +3105,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-05-25 03:49:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-06-19 19:54:59 +0900"
     },
     "done": true
   },
