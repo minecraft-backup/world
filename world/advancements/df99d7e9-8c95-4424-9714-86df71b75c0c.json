@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-06-20 20:54:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-05-14 22:39:39 +0900"
@@ -687,6 +693,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-05-19 13:56:53 +0900",
+      "minecraft:blaze": "2019-06-20 22:13:47 +0900",
       "minecraft:skeleton": "2019-05-13 21:31:51 +0900",
       "minecraft:zombie_pigman": "2019-05-23 22:58:54 +0900",
       "minecraft:ravager": "2019-05-26 16:12:06 +0900",
