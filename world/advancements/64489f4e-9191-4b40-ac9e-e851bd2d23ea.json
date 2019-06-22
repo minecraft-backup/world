@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2019-06-22 14:15:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-12 03:27:12 +0900"
@@ -1331,6 +1337,7 @@
       "minecraft:taiga_hills": "2019-06-01 22:12:05 +0900",
       "minecraft:desert": "2019-05-11 15:53:32 +0900",
       "minecraft:frozen_river": "2019-06-01 21:58:25 +0900",
+      "minecraft:deep_frozen_ocean": "2019-06-22 11:53:46 +0900",
       "minecraft:jungle": "2019-06-11 21:45:44 +0900",
       "minecraft:birch_forest": "2019-06-01 19:52:17 +0900",
       "minecraft:jungle_hills": "2019-06-11 21:53:30 +0900",
@@ -1931,6 +1938,7 @@
       "cooked_cod": "2019-05-12 01:34:15 +0900",
       "bread": "2019-05-12 01:30:14 +0900",
       "cookie": "2019-05-25 23:14:42 +0900",
+      "rotten_flesh": "2019-06-22 13:06:20 +0900",
       "dried_kelp": "2019-05-12 01:56:06 +0900",
       "melon_slice": "2019-05-12 03:30:22 +0900",
       "cooked_chicken": "2019-05-12 03:33:31 +0900"
