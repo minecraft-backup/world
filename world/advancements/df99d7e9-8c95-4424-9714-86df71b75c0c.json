@@ -2546,6 +2546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2019-06-30 18:21:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2019-05-19 21:36:26 +0900"
