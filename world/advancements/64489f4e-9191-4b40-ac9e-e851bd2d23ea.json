@@ -1610,6 +1610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2019-07-21 13:48:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2019-05-18 21:49:49 +0900"
@@ -2039,6 +2045,12 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2019-06-23 12:39:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_at_least_9_ice": "2019-07-21 14:57:16 +0900"
     },
     "done": true
   },

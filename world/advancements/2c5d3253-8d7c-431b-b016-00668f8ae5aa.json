@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2019-07-21 17:01:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-14 21:11:19 +0900"
@@ -666,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2019-07-21 17:01:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2019-06-02 15:24:25 +0900"
@@ -1132,6 +1144,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-05-14 22:17:20 +0900",
       "minecraft:forest": "2019-05-05 16:49:44 +0900",
+      "minecraft:mountains": "2019-07-21 17:03:34 +0900",
       "minecraft:desert_hills": "2019-05-05 16:39:49 +0900",
       "minecraft:desert": "2019-05-05 16:39:14 +0900",
       "minecraft:birch_forest": "2019-05-14 22:02:27 +0900",
@@ -1140,9 +1153,10 @@
       "minecraft:savanna_plateau": "2019-05-14 21:53:14 +0900",
       "minecraft:beach": "2019-05-05 16:44:58 +0900",
       "minecraft:dark_forest": "2019-05-14 22:02:46 +0900",
-      "minecraft:lukewarm_ocean": "2019-05-11 15:20:15 +0900",
       "minecraft:river": "2019-05-05 16:38:58 +0900",
+      "minecraft:lukewarm_ocean": "2019-05-11 15:20:15 +0900",
       "minecraft:birch_forest_hills": "2019-05-15 21:18:23 +0900",
+      "minecraft:wooded_mountains": "2019-07-21 17:04:03 +0900",
       "minecraft:wooded_hills": "2019-05-14 22:13:03 +0900",
       "minecraft:swamp": "2019-05-15 21:21:26 +0900",
       "minecraft:savanna": "2019-05-05 16:43:18 +0900",
@@ -1309,6 +1323,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-05-11 18:18:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2019-07-21 17:02:47 +0900"
     },
     "done": true
   },
@@ -2331,6 +2351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2019-07-21 17:02:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-05-06 21:37:52 +0900"
@@ -2781,5 +2807,5 @@
     },
     "done": true
   },
-  "DataVersion": 1968
+  "DataVersion": 1976
 }

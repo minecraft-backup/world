@@ -218,6 +218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2019-07-21 15:25:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-07-20 21:45:00 +0900"
@@ -1266,6 +1272,7 @@
       "minecraft:deep_cold_ocean": "2019-06-22 11:53:06 +0900",
       "minecraft:taiga_hills": "2019-05-28 22:50:45 +0900",
       "minecraft:desert": "2019-05-28 22:05:41 +0900",
+      "minecraft:deep_frozen_ocean": "2019-07-21 16:22:35 +0900",
       "minecraft:jungle": "2019-05-28 22:58:33 +0900",
       "minecraft:birch_forest": "2019-05-28 22:46:26 +0900",
       "minecraft:jungle_hills": "2019-05-28 23:03:34 +0900",
@@ -2632,6 +2639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-07-21 15:25:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-05-30 21:27:03 +0900"
@@ -2665,6 +2678,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2019-06-22 12:56:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2019-07-21 14:55:12 +0900"
     },
     "done": true
   },
